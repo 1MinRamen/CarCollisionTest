@@ -13,7 +13,7 @@ function setup() {
 }
 
 function draw() {
-  background("black");  
+  background(0);  
 
   wall.shapeColor = 80,80,80;
 
